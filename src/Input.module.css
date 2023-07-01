@@ -1,0 +1,31 @@
+.inputWrapper{
+    position: relative;
+    margin-top: 1rem;
+}
+form{
+    background-color: rgba(0,0,0,0.8);
+    padding:1rem;
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+    margin: auto;
+}
+input{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    width: 80%;
+}
+input:hover{
+    border-bottom: 1px solid white;
+}
+input:focus{
+    background-color: transparent;
+}
+form button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}

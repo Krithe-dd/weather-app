@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  gap: 2rem;
+  overflow: auto;
+}
+.loader{
+  margin: auto;
+}

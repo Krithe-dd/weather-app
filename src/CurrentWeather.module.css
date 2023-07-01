@@ -1,0 +1,16 @@
+.container{
+    color: #fff;
+    background-color: rgba(0,0,0,0.8);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    width: 50%;
+}
+.city{
+    display: flex;
+    flex-direction: column;
+}
+.temperature{
+    font-size: 3rem;
+}
